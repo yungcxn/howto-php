@@ -1,13 +1,7 @@
-PHP guide for beginners
-=======================
+# PHP guide for beginners
 
 
 (German :eyes:)
-```php
-<?php
-  echo "Hallo";
-?>
-```
 
 Hier sind alle Beispieldateien zur Demonstration von PHP 7.4:
 
