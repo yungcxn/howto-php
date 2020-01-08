@@ -3,8 +3,8 @@ PHP
 
 
 (German)
-'''php
+```php
 <?php
   echo "Hallo";
 ?>
-'''
+```
