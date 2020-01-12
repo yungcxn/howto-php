@@ -9,7 +9,7 @@
 - CLI = Commandline-Interface = Terminal/CMD /Kommandozeile
 - PHP-Dateien liegen auf Server -> Server führt PHP-Interpreter aus -> Wir bekommen Lösung
 
-![Funktionsweise]("Funktionsweise.png")
+![Funktionsweise](Funktionsweise.png)
 
 - Interpreter ist ein Programm auf dem Server
 - Interpreter geschrieben in "C" (andere Programmiersprache)
