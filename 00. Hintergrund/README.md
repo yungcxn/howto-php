@@ -22,6 +22,8 @@
 - Um etwas zu Programmieren gibt es viele Wege, jedoch sind nur die intelligentesten Wege die Effizientesten und die komplizierteren sollten vermieden werden
 => Performance, denn der Interpreter braucht Zeit
 
+- Nochmal: Man kann PHP nicht für alles verwenden, Programmiersprachen, Programme dafür und mehr haben alle einen gewissen Anwendungsbereich. Wenn jemand etwas anderes als PHP benutzen möchte geht das auch -> Google
+
 - Bei Problemen Google verwenden, das geht schneller als jemanden zu fragen
 => Mindestens eine Person auf der Welt hat das Problem im Internet dargestellt und der wurde auch geholfen
 
