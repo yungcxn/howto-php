@@ -13,4 +13,4 @@
 
 - Interpreter ist ein Programm auf dem Server
 - Interpreter geschrieben in "C" (andere Programmiersprache)
-- > Mit PHP sprechen wir mit dem Interpreter, der für uns rechnet und tut was wir sagen
+=> Mit PHP sprechen wir mit dem Interpreter, der für uns rechnet und tut was wir sagen
