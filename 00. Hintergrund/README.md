@@ -42,5 +42,3 @@
 - Kommentare kosten Zeit, helfen aber und retten viel mehr Zeit beim Code lesen, weil Code schnell unordentlich wird
 
 - Abstand: Leerzeichen, Zeilenumbrüche sollten ordentlich zur Codesauberkeit dosiert werden, z.B. verwendet man in einem `{}` Block bei jeder weiteren Zeile einen Tabulator (4 oder 2 Leerzeichen)
-
--
