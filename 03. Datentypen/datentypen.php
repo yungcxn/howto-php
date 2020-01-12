@@ -56,8 +56,8 @@
 
     $color_codes = array(
         "Red" => "#ff0000",
-        "Green" => "#00ff00",
-        "Blue" => "#0000ff"
+        "Green" => 5,
+        "Blue" => false
     );
     echo $color_codes["Red"];
 

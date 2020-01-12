@@ -17,6 +17,7 @@
 - der String beginnt mit einem `"` und endet mit `"`
 - Wenn man Strings aneinanderkettet benutzt man ein `.` dazwischen
 - Ein String kann Zeichen nach UTF-8 beinhalten
+- Kann Variablen direkt mit `"bla {$variable} bla"` beinhalten
 
 ### Floats und Doubles
 - Gleitkommazahlen
@@ -29,6 +30,7 @@
 
 ### Arrays
 - Eine Liste mit einer festen Länge, die mehrere Werte beinhaltet
+- Diese Werte müssen nicht von dem gleichen Datentyp sein
 - erstellt man mit `$arr = array("Wert1", "Wert2", "Wert3")`
 - Man greift auf einen Wert des Arrays mit `$arr[indexzahl]` zu, wobei `indexzahl` mit 0 der erste Wert ist und der letzte hier 2
 - Ein Array beginnt immer mit dem Index 0!
@@ -44,3 +46,19 @@
 ### NULL
 - ist kein richtiger Datentyp
 - zeigt einfach nur an, dass die Variable keinen Wert hat
+
+
+## Casting
+
+- mit `$x = (int) "5"` kann man den Wert eines Datentypens zu einem Wert eines anderen Datentypens verwandeln, hier wird der String `"5"` zu einer Zahl verwandelt, denn mit einem String kann man nicht direkt rechnen.
+
+
+daneben gibt es folgende Typen zur Umwandlung (neben Objekte irgendwelcher Klassen):
+
+- `(string)`
+- `(int)` or `(integer)`
+- `(float)`, `(double)` or `(real)`
+- `(bool)` or `(boolean)`
+- `(array)`
+- `(object)`
+- `(unset)` (to NULL)
