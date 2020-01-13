@@ -63,4 +63,4 @@ function abc($arg, $x, $y) {
 - "echo", "print", "include" und "require" sind besondere Funktionen ohne Klammern
 
 - Variabelfunktionen sind an sich Stringvariablen mit dem Namen einer bereits definierten Funktion
-- Mit runden Klammern hinter dem Variabelzeichen und dem Variabelnamen `$abc();` und ggf. noch Argumenten / Parameternn kann man diese Funktion dann aufrufen
+- Mit runden Klammern hinter dem Variabelzeichen und dem Variabelnamen `$abc();` und ggf. noch Argumenten / Parametern kann man diese Funktion dann aufrufen
