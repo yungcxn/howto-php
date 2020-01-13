@@ -15,7 +15,7 @@ Hier sind alle Beispieldateien zur Demonstration von PHP 7.4:
   7.  [Fehler und -behandlung](07.%20Fehler%20und%20-behandlung) :white_check_mark:
   8.  [POST und GET](08.%20POST%20und%20GET) :white_check_mark:
   9.  [Funktionen und Closures](09.%20Funktionen%20und%20Closures) :x:
-  10. [Include](10.%20Include) :x:
+  10. [Include](10.%20Include) :white_check_mark:
   11. [Objektorientiertes Programmieren](11.%20Objektorientiertes%20Programmieren) :x:
   12. [Klassen, Objekte, Vererbung](12.%20Klassen,%20Objekte,%20Vererbung) :x:
   13. [Sichtbarkeit und Static](13.%20Sichtbarkeit%20und%20Static) :x:
