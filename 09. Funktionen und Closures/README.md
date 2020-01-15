@@ -7,11 +7,11 @@
 
 ```php
 function abc($arg, $x, $y) {
- 
+
  //Hier ist Code
- 
+
  echo "Hallo"; //Auch eine Funktion, aber eine schon von PHP implementierte
- 
+
  //Hier kann noch ein
  //return;
 }
